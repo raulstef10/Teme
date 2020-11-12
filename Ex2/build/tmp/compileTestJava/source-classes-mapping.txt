@@ -1,0 +1,6 @@
+com/example/demo/HelloControllerTest.java
+ com.example.demo.HelloControllerTest
+com/example/demo/HelloControllerIT.java
+ com.example.demo.HelloControllerIT
+com/example/demo/DemoApplicationTests.java
+ com.example.demo.DemoApplicationTests
