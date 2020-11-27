@@ -1,0 +1,2 @@
+com/example/jpademo/JpademoApplicationTests.java
+ com.example.jpademo.JpademoApplicationTests
